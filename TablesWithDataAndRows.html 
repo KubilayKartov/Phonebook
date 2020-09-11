@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<body>
+    
+    <style>
+    
+        table, th, td {
+  border: 1px solid black;
+}
+        
+    </style>
+    
+<table style="width:100%">
+    
+<tr>
+    
+  <th>Photos</th>  
+  <th>Name</th>
+  <th>TelefonNumber</th>
+  <th>Country</th>
+ 
+ </tr>
+ <tr>
+  
+  <td> <img src="https://pbs.twimg.com/profile_images/2945652626/df0fc43f504951239b4425faaedef2ae.jpeg" width="100">
+      
+  <td> <a href="https://sv.wikipedia.org/wiki/The_Notorious_B.I.G." target="_blank">Biggie Smalls</a></td>
+      
+  <td>121-387-621</td>
+     
+  <td>USA</td>
+  
+ </tr>
+ <tr>
+  
+  <td> <img src="https://pbs.twimg.com/profile_images/700150698835648512/lCbF7N7M.jpg" width="100"></td>
+   
+     <td> <a href="https://sv.wikipedia.org/wiki/Tupac_Shakur" target="_blank">Tupac Shakur</a> </td>
+      
+  <td>712-437-213</td>
+      
+  <td>USA</td>
+  
+ </tr>
+ <tr>
+      
+  <td> <img src="https://kellyewhitney.files.wordpress.com/2019/01/kevin-hart.jpg?w=256&h=256&crop=1" width="100">
+      
+     <td> <a href="https://sv.wikipedia.org/wiki/Kevin_Hart" target="_blank">Kevin Hart</a></td>
+      
+  <td>171-298-383</td>
+     
+  <td>USA</td>                                         
+     
+ </tr>
+ <tr>
+ 
+  <td> <img src="https://external-preview.redd.it/6bs0EQDbpVNtF836Gc7rkngb49UNbN2rVGCVfP9KVsk.jpg?auto=webp&s=87344a5a380084ac32f81c9d82aae0f21a4eb2b9" width="100">
+      
+     <td> <a href="https://en.wikipedia.org/wiki/Polo_G" target="_blank">Polo G</a></td>
+      
+  <td>179-823-988</td>
+      
+  <td>USA</td>
+      
+  </tr>
+  <tr>
+      
+  <td> <img src="https://transcoder.plex.tv/photo?height=256&minSize=1&upscale=1&width=256&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fpeople%2F5d7768517228e5001f1e206d.jpg" width="100">
+      
+      <td> <a href="https://sv.wikipedia.org/wiki/Barack_Obama" target="_blank">Barack Obama</a></td>
+      
+  <td>542-324-853</td>
+     
+  <td>USA</td>
+      
+  
+    </table>
+    </body>
+</html>
